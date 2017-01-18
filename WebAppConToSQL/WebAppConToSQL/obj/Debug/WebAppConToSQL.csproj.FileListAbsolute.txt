@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\WebAppConToSQL\WebAppConToSQL\bin\WebAppConToSQL.dll.config
+C:\inetpub\wwwroot\WebAppConToSQL\WebAppConToSQL\bin\WebAppConToSQL.dll
+C:\inetpub\wwwroot\WebAppConToSQL\WebAppConToSQL\bin\WebAppConToSQL.pdb
+C:\inetpub\wwwroot\WebAppConToSQL\WebAppConToSQL\obj\Debug\WebAppConToSQL.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\WebAppConToSQL\WebAppConToSQL\obj\Debug\WebAppConToSQL.dll
+C:\inetpub\wwwroot\WebAppConToSQL\WebAppConToSQL\obj\Debug\WebAppConToSQL.pdb
